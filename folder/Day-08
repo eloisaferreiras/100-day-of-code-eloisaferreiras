@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outras formatações</title>
+</head>
+<body>
+    <h1>Outras formatações</h1>
+    <h2>Código-fonte</h2>
+    <p>O comando <code>decument.getElementoyId9</code>('teste) éescrito em linguagem java</p>
+    <pre> <!-- Formatar e concetar os textos-->
+        <code>
+num = int(input('Digite um número'))
+if num & 2 == 0;
+    print(f'0 numéro {num} é par)
+else
+print(f'0 numéro {num} é impar)
+print('Fim do programa') <!--para organizar o código pressione shift e tab-->
+        </code>
+        </pre>
+    <h2>Citações simples</h2>
+    <p>Como diria o pai de uma amigo: o <q>computador é um burro muito rápido</Q></p>
+</body>
+</html>
